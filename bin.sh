@@ -1,5 +1,7 @@
 #!/bin/bash
 
+. $HOME/.nvm/nvm.sh
+
 SERVER=
 CWD=.
 REMOTE=deploy
